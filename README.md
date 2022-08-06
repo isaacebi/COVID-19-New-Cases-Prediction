@@ -50,6 +50,10 @@ A time series data science project using LSTM deep learning models to achieved M
 
 ![alt text](model.png)
 
+* Trendline
+
+![trend line](static/results/trendline_act_vs_pred.png)
+
 * TensorBoard
 
 ![alt text](static/tensorboard/loss.png)
